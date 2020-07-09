@@ -16,4 +16,4 @@ Developer [@okfn](https://okfn.org/) • Maintainer [@shields.io](https://shield
 📦 [NPM](https://www.npmjs.com/~chris48s)<br>
 🐘 [Packagist](https://packagist.org/packages/chris48s/)<br>
 🔑 [Keybase](https://keybase.io/chris48s)<br>
-📖 [Blog](https://chris48s.github.io/blogmarks)<br>
+📚 [Blog](https://chris48s.github.io/blogmarks)<br>
