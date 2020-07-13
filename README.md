@@ -1,8 +1,11 @@
 # Hi, I'm Chris
 
-<img src="https://chris48s.github.io/chris48s/img/okfn-256.png" width="16" height="16" /> Developer [@okfn](https://okfn.org/)<br>
-<img src="https://chris48s.github.io/chris48s/img/shields-256.png" width="16" height="16" /> Maintainer [@shields.io](https://shields.io/)<br>
-<img src="https://chris48s.github.io/chris48s/img/dc-240.png" width="16" height="16" /> Alumni [@democlub](https://democracyclub.org.uk/)
+<a href="https://okfn.org/"><img src="https://chris48s.github.io/chris48s/img/okfn-256.png" width="16" height="16" /></a>
+Developer [@okfn](https://okfn.org/)<br>
+<a href="https://shields.io/"><img src="https://chris48s.github.io/chris48s/img/shields-256.png" width="16" height="16" /></a>
+Maintainer [@shields.io](https://shields.io/)<br>
+<a href="https://democracyclub.org.uk/"><img src="https://chris48s.github.io/chris48s/img/dc-240.png" width="16" height="16" /></a>
+Alumni [@democlub](https://democracyclub.org.uk/)
 
 ## Things I do
 
@@ -16,24 +19,77 @@
 ## Tech I work with
 
 <table>
-<tr>
-  <td><img src="https://chris48s.github.io/chris48s/icons/python.svg" width="64" height="64" /><br>python</td>
-  <td><img src="https://chris48s.github.io/chris48s/icons/djangoproject.svg" width="64" height="64" /><br>django</td>
-  <td><img src="https://chris48s.github.io/chris48s/icons/javascript.svg" width="64" height="64" /><br>js</td>
-  <td><img src="https://chris48s.github.io/chris48s/icons/html5.svg" width="64" height="64" /><br>HTML</td>
-</tr>
-<tr>
-  <td><img src="https://chris48s.github.io/chris48s/icons/linux.svg" width="64" height="64" /><br>linux</td>
-  <td><img src="https://chris48s.github.io/chris48s/icons/ansible.svg" width="64" height="64" /><br>ansible</td>
-  <td><img src="https://chris48s.github.io/chris48s/icons/docker.svg" width="64" height="64" /><br>docker</td>
-  <td><img src="https://chris48s.github.io/chris48s/icons/amazon_s3.svg" width="64" height="64" /><br>AWS</td>
-</tr>
+  <tr>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/python.svg" width="64" height="64" alt="Python" /></a>
+      <br>Python
+    </td>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/djangoproject.svg" width="64" height="64" alt="Django" /></a>
+      <br>Django
+    </td>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/javascript.svg" width="64" height="64" alt="Javascript" /></a>
+      <br>Java&#8203;script
+    </td>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/html5.svg" width="64" height="64" alt="HTML" /></a>
+      <br>HTML
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/linux.svg" width="64" height="64" alt="Linux" /></a>
+      <br>Linux
+    </td>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/ansible.svg" width="64" height="64" alt="Ansible" /></a>
+      <br>Ansible
+    </td>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/docker.svg" width="64" height="64" alt="Docker" /></a>
+      <br>Docker
+    </td>
+    <td valign="top">
+      <a><img src="https://chris48s.github.io/chris48s/icons/amazon_s3.svg" width="64" height="64" alt="AWS" /></a>
+      <br>AWS
+    </td>
+  </tr>
 </table>
 
 ## Around the Web
 
-[![PyPI](https://img.shields.io/badge/-pypi-blue?logo=python&logoColor=whitesmoke&labelColor=grey)](https://pypi.org/user/chris48s/)
-[![NPM](https://img.shields.io/badge/-npm-blue?logo=npm&labelColor=grey)](https://www.npmjs.com/~chris48s)
-[![Packagist](https://img.shields.io/badge/-packagist-blue?logo=php&logoColor=whitesmoke&labelColor=grey)](https://packagist.org/packages/chris48s/)
-[![Keybase](https://img.shields.io/badge/-keybase-blue?logo=keybase&logoColor=whitesmoke&labelColor=grey)](https://keybase.io/chris48s)
-[![Blog](https://img.shields.io/badge/📚-blog-blue?logo=&labelColor=grey)](https://chris48s.github.io/blogmarks)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://pypi.org/user/chris48s/">
+        <img src="https://chris48s.github.io/chris48s/icons/python.svg" width="64" height="64" alt="PyPI" />
+        <br>PyPI
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.npmjs.com/~chris48s">
+        <img src="https://chris48s.github.io/chris48s/icons/npm.svg" width="64" height="64" alt="NPM" />
+        <br>NPM
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://packagist.org/packages/chris48s/">
+        <img src="https://chris48s.github.io/chris48s/icons/php.svg" width="64" height="64" alt="Packagist" />
+        <br>Pack&#8203;agist
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://keybase.io/chris48s">
+        <img src="https://chris48s.github.io/chris48s/icons/keybase.svg" width="64" height="64" alt="Keybase" />
+        <br>Key&#8203;base
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://chris48s.github.io/blogmarks">
+        <img src="https://chris48s.github.io/chris48s/icons/rss.svg" width="64" height="64" alt="Blog" />
+        <br>Blog
+      </a>
+    </td>
+  </tr>
+</table>
