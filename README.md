@@ -21,37 +21,37 @@ Alumni [@democlub](https://democracyclub.org.uk/)
 <table>
   <tr>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/python.svg" width="64" height="64" alt="Python" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/python.svg" width="64" height="64" alt="Python" /></a>
       <br>Python
     </td>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/djangoproject.svg" width="64" height="64" alt="Django" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/djangoproject.svg" width="64" height="64" alt="Django" /></a>
       <br>Django
     </td>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/javascript.svg" width="64" height="64" alt="Javascript" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/javascript.svg" width="64" height="64" alt="Javascript" /></a>
       <br>Java&#8203;script
     </td>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/html5.svg" width="64" height="64" alt="HTML" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/html5.svg" width="64" height="64" alt="HTML" /></a>
       <br>HTML
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/linux.svg" width="64" height="64" alt="Linux" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/linux.svg" width="64" height="64" alt="Linux" /></a>
       <br>Linux
     </td>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/ansible.svg" width="64" height="64" alt="Ansible" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/ansible.svg" width="64" height="64" alt="Ansible" /></a>
       <br>Ansible
     </td>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/docker.svg" width="64" height="64" alt="Docker" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/docker.svg" width="64" height="64" alt="Docker" /></a>
       <br>Docker
     </td>
     <td valign="top">
-      <a><img src="https://chris48s.github.io/chris48s/icons/amazon_s3.svg" width="64" height="64" alt="AWS" /></a>
+      <a href="#"><img src="https://chris48s.github.io/chris48s/icons/amazon_s3.svg" width="64" height="64" alt="AWS" /></a>
       <br>AWS
     </td>
   </tr>
