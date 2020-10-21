@@ -20,76 +20,57 @@ Alumni [@democlub](https://democracyclub.org.uk/)
 
 <table id="chris48s-tech">
   <tr>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/python.svg" width="88" height="88" alt="Python" /></a>
-      <br>Python
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/python.svg" width="16" height="16" alt="Python" /></a> Python
     </td>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/djangoproject.svg" width="88" height="88" alt="Django" /></a>
-      <br>Django
-    </td>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/javascript.svg" width="88" height="88" alt="Javascript" /></a>
-      <br>Java&#8203;script
-    </td>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/html5.svg" width="88" height="88" alt="HTML" /></a>
-      <br>HTML
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/linux.svg" width="16" height="16" alt="Linux" /></a> Linux
     </td>
   </tr>
   <tr>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/linux.svg" width="88" height="88" alt="Linux" /></a>
-      <br>Linux
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/djangoproject.svg" width="16" height="16" alt="Django" /></a> Django
     </td>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/ansible.svg" width="88" height="88" alt="Ansible" /></a>
-      <br>Ansible
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/ansible.svg" width="16" height="16" alt="Ansible" /></a> Ansible
     </td>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/docker.svg" width="88" height="88" alt="Docker" /></a>
-      <br>Docker
+  </tr>
+  <tr>
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/javascript.svg" width="16" height="16" alt="Javascript" /></a> Javascript
     </td>
-    <td valign="top" style="text-align:center">
-      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/amazon_s3.svg" width="88" height="88" alt="AWS" /></a>
-      <br>AWS
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/docker.svg" width="16" height="16" alt="Docker" /></a> Docker
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/html5.svg" width="16" height="16" alt="HTML" /></a> HTML
+    </td>
+    <td>
+      <a href="#chris48s-tech"><img src="https://chris48s.github.io/chris48s/icons/amazon_s3.svg" width="16" height="16" alt="AWS" /></a> AWS
     </td>
   </tr>
 </table>
 
 ## Around the Web
 
-<table id="chris48s-web">
-  <tr>
-    <td valign="top" style="text-align:center">
-      <a href="https://pypi.org/user/chris48s/">
-        <img src="https://chris48s.github.io/chris48s/icons/python.svg" width="64" height="64" alt="PyPI" />
-        <br>PyPI
-      </a>
-    </td>
-    <td valign="top" style="text-align:center">
-      <a href="https://www.npmjs.com/~chris48s">
-        <img src="https://chris48s.github.io/chris48s/icons/npm.svg" width="64" height="64" alt="NPM" />
-        <br>NPM
-      </a>
-    </td>
-    <td valign="top" style="text-align:center">
-      <a href="https://packagist.org/packages/chris48s/">
-        <img src="https://chris48s.github.io/chris48s/icons/php.svg" width="64" height="64" alt="Packagist" />
-        <br>Pack&#8203;agist
-      </a>
-    </td>
-    <td valign="top" style="text-align:center">
-      <a href="https://keybase.io/chris48s">
-        <img src="https://chris48s.github.io/chris48s/icons/keybase.svg" width="64" height="64" alt="Keybase" />
-        <br>Key&#8203;base
-      </a>
-    </td>
-    <td valign="top" style="text-align:center">
-      <a href="https://chris48s.github.io/blogmarks">
-        <img src="https://chris48s.github.io/chris48s/icons/rss.svg" width="64" height="64" alt="Blog" />
-        <br>Blog
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://pypi.org/user/chris48s/">
+<img src="https://chris48s.github.io/chris48s/icons/python.svg" width="16" height="16" alt="PyPI" /> PyPI
+</a><br>
+
+<a href="https://www.npmjs.com/~chris48s">
+<img src="https://chris48s.github.io/chris48s/icons/npm.svg" width="16" height="16" alt="NPM" /> NPM
+</a><br>
+
+<a href="https://packagist.org/packages/chris48s/">
+<img src="https://chris48s.github.io/chris48s/icons/php.svg" width="16" height="16" alt="Packagist" /> Packagist
+</a><br>
+
+<a href="https://keybase.io/chris48s">
+<img src="https://chris48s.github.io/chris48s/icons/keybase.svg" width="16" height="16" alt="Keybase" /> Keybase
+</a><br>
+
+<a href="https://chris48s.github.io/blogmarks">
+<img src="https://chris48s.github.io/chris48s/icons/rss.svg" width="16" height="16" alt="Blog" /> Blog
+</a>
