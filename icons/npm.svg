@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="npm" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#fff"/><path fill="none" stroke="#cb3837" stroke-width="22" d="M166 333h90m146-101v68m-45-68v68m-112-68v45m-11 34h213V199H65v112h113V210m-45 22v68m157-90v90"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 2.398438 0 L 13.601562 0 C 14.925781 0 16 1.074219 16 2.398438 L 16 13.601562 C 16 14.925781 14.925781 16 13.601562 16 L 2.398438 16 C 1.074219 16 0 14.925781 0 13.601562 L 0 2.398438 C 0 1.074219 1.074219 0 2.398438 0 Z M 2.398438 0 "/>
+<path style="fill:none;stroke-width:22;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(79.607843%,21.960784%,21.568627%);stroke-opacity:1;stroke-miterlimit:4;" d="M 166 333 L 256 333 M 402 232 L 402 300 M 357 232 L 357 300 M 245 232 L 245 277 M 234 311 L 447 311 L 447 199 L 65 199 L 65 311 L 178 311 L 178 210 M 133 232 L 133 300 M 290 210 L 290 300 " transform="matrix(0.03125,0,0,0.03125,0,0)"/>
+</g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="RSS" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#f80"/><circle cx="145" cy="367" r="35" fill="#fff"/><path fill="none" stroke="#fff" stroke-width="60" d="M109 241c89 0 162 73 162 162m114 0c0-152-124-276-276-276"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,53.333333%,0%);fill-opacity:1;" d="M 2.398438 0 L 13.601562 0 C 14.925781 0 16 1.074219 16 2.398438 L 16 13.601562 C 16 14.925781 14.925781 16 13.601562 16 L 2.398438 16 C 1.074219 16 0 14.925781 0 13.601562 L 0 2.398438 C 0 1.074219 1.074219 0 2.398438 0 Z M 2.398438 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 5.625 11.46875 C 5.625 12.074219 5.136719 12.5625 4.53125 12.5625 C 3.925781 12.5625 3.4375 12.074219 3.4375 11.46875 C 3.4375 10.863281 3.925781 10.375 4.53125 10.375 C 5.136719 10.375 5.625 10.863281 5.625 11.46875 Z M 5.625 11.46875 "/>
+<path style="fill:none;stroke-width:60;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 109 241 C 198 241 271 314 271 403 M 385 403 C 385 251 261 127 109 127 " transform="matrix(0.03125,0,0,0.03125,0,0)"/>
+</g>
+</svg>
