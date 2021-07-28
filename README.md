@@ -1,10 +1,10 @@
 # Hi, I'm Chris
 
-<a href="https://okfn.org/"><img src="https://chris48s.github.io/chris48s/img/okfn-256.png" width="16" height="16" /></a>
+<a href="https://okfn.org/"><img src="https://chris48s.github.io/chris48s/img/okfn-16.png" width="16" height="16" /></a>
 Developer [@okfn](https://okfn.org/)<br>
-<a href="https://shields.io/"><img src="https://chris48s.github.io/chris48s/img/shields-256.png" width="16" height="16" /></a>
+<a href="https://shields.io/"><img src="https://chris48s.github.io/chris48s/img/shields-16.png" width="16" height="16" /></a>
 Maintainer [@shields.io](https://shields.io/)<br>
-<a href="https://democracyclub.org.uk/"><img src="https://chris48s.github.io/chris48s/img/dc-240.png" width="16" height="16" /></a>
+<a href="https://democracyclub.org.uk/"><img src="https://chris48s.github.io/chris48s/img/dc-16.png" width="16" height="16" /></a>
 Alumni [@democlub](https://democracyclub.org.uk/)
 
 ## Things I do
