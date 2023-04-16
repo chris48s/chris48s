@@ -12,12 +12,12 @@
   <img src="https://chris48s.github.io/chris48s/icons/php.svg" width="16" height="16" alt="Packagist" /> Packagist
 </a><br>
 
-<a href="https://keybase.io/chris48s">
-  <img src="https://chris48s.github.io/chris48s/icons/keybase.svg" width="16" height="16" alt="Keybase" /> Keybase
+<a href="https://fed.chris-shaw.dev/@chris">
+  <img src="https://chris48s.github.io/chris48s/icons/mastodon.svg" width="16" height="16" alt="<astodon" /> Mastodon
 </a><br>
 
-<a href="https://fed.chris-shaw.dev/@chris">
-  <img src="https://chris48s.github.io/chris48s/icons/mastodon.svg" width="16" height="16" alt="Mastodon" /> Mastodon
+<a href="https://keybase.io/chris48s">
+  <img src="https://chris48s.github.io/chris48s/icons/keybase.svg" width="16" height="16" alt="Keybase" /> Keybase
 </a><br>
 
 <a href="https://chris48s.github.io/blogmarks">
